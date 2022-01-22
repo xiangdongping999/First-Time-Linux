@@ -36,7 +36,7 @@ Linux系统的很多分类
 
 现在就可以前往发行版网站下载镜像文件如Ubuntu安装镜像前往：https://cn.ubuntu.com/
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
+![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/ubuntu%E4%B8%8B%E8%BD%BD1.jpg?raw=true) 
    
    
  
