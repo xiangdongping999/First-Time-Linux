@@ -40,7 +40,7 @@ Linux系统的很多分类
 
 点击“红框”进入下载选择页面，由于Ubuntu适配各种架构，所有自行选择所需的镜像下载（上面红色方框是架构和版本分类，下面红圈是普通的图形化桌面）
 
-
+![This is an image](https://raw.githubusercontent.com/xiangdongping999/xdp/b31956f24a2e58de4a6662ef3103c236752d0e9d/pic/ubuntu%E4%B8%8B%E8%BD%BD2.jpg?raw=true)
 
 
    
