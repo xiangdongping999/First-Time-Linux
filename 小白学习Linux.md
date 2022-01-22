@@ -37,6 +37,12 @@ Linux系统的很多分类
 现在就可以前往发行版网站下载镜像文件如Ubuntu安装镜像前往：https://cn.ubuntu.com/ (如下图）
 
 ![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/ubuntu%E4%B8%8B%E8%BD%BD1.jpg?raw=true) 
+
+点击“红框”进入下载选择页面，由于Ubuntu适配各种架构，所有自行选择所需的镜像下载（上面红色方框是架构和版本分类，下面红圈是普通的图形化桌面）
+
+
+
+
    
    
  
