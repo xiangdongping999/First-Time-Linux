@@ -47,7 +47,13 @@ Linux系统的很多分类
 ![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A91.jpg?raw=true
 )![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A92.jpg?raw=true)
 
+这里有两个版本（截止2022.1.22）Ubuntu为我们提供了两个可用版本：20.04 和 21.10
 
+20.04是LTS 也就是长期支持版本有长达5年的支持维护，可使用到2025年4月。
+
+21.10是最新版本可支持到2022年7月。最新的22.04也会在2022年4月推出。
+
+综合来看我们一般选用LTS版本进行使用。
    
    
  
