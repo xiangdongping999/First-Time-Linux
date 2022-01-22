@@ -42,6 +42,11 @@ Linux系统的很多分类
 
 ![This is an image](https://raw.githubusercontent.com/xiangdongping999/xdp/b31956f24a2e58de4a6662ef3103c236752d0e9d/pic/ubuntu%E4%B8%8B%E8%BD%BD2.jpg?raw=true)
 
+一般我们就下载这个图形化桌面，点击进去选择要下载的版本镜像
+
+![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A91.jpg?raw=true
+)![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A92.jpg?raw=true)
+
 
    
    
