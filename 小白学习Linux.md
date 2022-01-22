@@ -34,7 +34,7 @@ Linux系统的很多分类
 
 家用的设备基本上是X86架构（基于Intel和AMD芯片的台式计算机，笔记本电脑）或者ARM架构（树莓派，开发板，基于SOC的笔记本电脑）
 
-现在就可以前往发行版网站下载镜像文件如Ubuntu安装镜像前往：https://cn.ubuntu.com/
+现在就可以前往发行版网站下载镜像文件如Ubuntu安装镜像前往：https://cn.ubuntu.com/ (如下图）
 
 ![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/ubuntu%E4%B8%8B%E8%BD%BD1.jpg?raw=true) 
    
