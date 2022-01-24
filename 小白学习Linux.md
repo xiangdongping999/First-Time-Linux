@@ -16,7 +16,7 @@ Linux系统的很多分类
 
 4、Deepin（国货之光）但并不推荐。
 
-以上三个我都使用过，各有千秋。
+以上四个我都使用过，各有千秋。
 
 最一开始使用的是LinuxMint它是基于Ubuntu打造的，但是没有snap。而且更轻。非常适合刚刚入门的朋友。
 
@@ -44,8 +44,7 @@ Linux系统的很多分类
 
 一般我们就下载这个图形化桌面，点击进去选择要下载的版本镜像
 
-![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A91.jpg?raw=true
-)![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A92.jpg?raw=true)
+![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A91.jpg?raw=true)![This is an image](https://github.com/xiangdongping999/xdp/blob/master/pic/Ubuntu%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A92.jpg?raw=true)
 
 这里有两个版本（截止2022.1.22）Ubuntu为我们提供了两个可用版本：20.04 和 21.10
 
